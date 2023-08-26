@@ -23,7 +23,7 @@ Before proceeding, ensure you have your own credentials and a MetaMask account t
 'npx hardhat run scripts/deploy.js --network fuji'
 
 
-## Assistance
+## Note
 
 Make sure you've switched your MetaMask network to `AVALANCHE FUJI-C Chain`. Detailed instructions can be found in the `GUIDE.md` file.
 
